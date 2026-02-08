@@ -1,0 +1,12 @@
+apex-athletes/
+├── index.html
+├── style.css
+├── script.js
+├── guide.html
+├── physical.html
+├── Logo.jpg (you need to add your own logo image)
+└── social-icons/
+    ├── facebook.svg
+    ├── twitter.svg
+    ├── instagram.svg
+    └── youtube.svg
